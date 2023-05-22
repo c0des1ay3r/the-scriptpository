@@ -1,4 +1,4 @@
-# the-scriptpository
+# The Scriptpository
 Here at the Scriptpository, you can have access to different scripts to be loaded w/ bookmarklets.
 ## Why? 
 No more blocked pages, that's why.
